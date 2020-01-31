@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-01-31T10:42:32.329401-05:00"
+from:
+  id-type: crev
+  id: ZA9u1ZKP63Qvzp-IPZ2WJaE_VvVZHPbFGfXWksi13S0
+  url: "https://github.com/uberjay/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: medium
+comment: |-
+  Good reputation for creating robust software.
+----- SIGN CREV PROOF -----
+7v64kPMaV7pDuCgo18n5BSBGtu0DYO5hxXjTinq74m_7X8VsB83h66etbdbm1BNH6dipmrqE8khDj9Yvsi65BA
+----- END CREV PROOF -----
+
