@@ -17,3 +17,23 @@ comment: |-
 7v64kPMaV7pDuCgo18n5BSBGtu0DYO5hxXjTinq74m_7X8VsB83h66etbdbm1BNH6dipmrqE8khDj9Yvsi65BA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-01-31T10:48:46.976664-05:00"
+from:
+  id-type: crev
+  id: ZA9u1ZKP63Qvzp-IPZ2WJaE_VvVZHPbFGfXWksi13S0
+  url: "https://github.com/uberjay/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  dpc is the author of cargo-crev. He seems trustworthy, and strongly dedicated to
+  creating a secure crate ecosystem for Rust.
+----- SIGN CREV PROOF -----
+GXbozKbaeODws9S5iILe9sqDT46RyaXlexg4Qv3wDExuWrsPBlB5cXIOx4Vfn13SLTfahEGpth6e40quP8CLBg
+----- END CREV PROOF -----
+
